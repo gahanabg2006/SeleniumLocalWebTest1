@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-16T07:20:18 IST" name="Default suite" finished-at="2026-10-16T07:20:54 IST" duration-ms="35235">
+    <groups>
+    </groups>
+    <test started-at="2026-10-16T07:20:18 IST" name="Default test" finished-at="2026-10-16T07:20:54 IST" duration-ms="35235">
+      <class name="com.example.LocalLoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.LocalLoginTest@2a3b5b47]" started-at="2026-10-16T07:20:19 IST" name="setUp" finished-at="2026-10-16T07:20:47 IST" duration-ms="28549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkBackgroundColor()[pri:0, instance:com.example.LocalLoginTest@2a3b5b47]" started-at="2026-10-16T07:20:47 IST" name="checkBackgroundColor" finished-at="2026-10-16T07:20:47 IST" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBackgroundColor -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.LocalLoginTest@2a3b5b47]" started-at="2026-10-16T07:20:47 IST" name="tearDown" finished-at="2026-10-16T07:20:48 IST" duration-ms="460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.LocalLoginTest@2a3b5b47]" started-at="2026-10-16T07:20:48 IST" name="setUp" finished-at="2026-10-16T07:20:50 IST" duration-ms="2269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalidLoginTest()[pri:0, instance:com.example.LocalLoginTest@2a3b5b47]" started-at="2026-10-16T07:20:50 IST" name="invalidLoginTest" finished-at="2026-10-16T07:20:50 IST" duration-ms="426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.LocalLoginTest@2a3b5b47]" started-at="2026-10-16T07:20:50 IST" name="tearDown" finished-at="2026-10-16T07:20:51 IST" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.LocalLoginTest@2a3b5b47]" started-at="2026-10-16T07:20:51 IST" name="setUp" finished-at="2026-10-16T07:20:53 IST" duration-ms="2240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validLoginTest()[pri:0, instance:com.example.LocalLoginTest@2a3b5b47]" started-at="2026-10-16T07:20:53 IST" name="validLoginTest" finished-at="2026-10-16T07:20:53 IST" duration-ms="384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.LocalLoginTest@2a3b5b47]" started-at="2026-10-16T07:20:53 IST" name="tearDown" finished-at="2026-10-16T07:20:54 IST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.example.LocalLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
